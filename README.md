@@ -4,8 +4,8 @@ Esse projeto foi gerado pelo [Angular CLI](https://github.com/angular/angular-cl
 
 ## Server DEV
 
-Rodar `ng serve` no server DEV. Navegar para `http://localhost:4200/`. A aplicação carregará qualquer alteração realizada nos arqvuiso.
+Rodar `ng serve` no server DEV e navegar para `http://localhost:4200/`. A aplicação carregará qualquer alteração realizada nos arquivos.
 
 ## Dependências
 
-rodar `npm init` para baixar os pacotes de inicialização do projeto no package.json.
+rodar `npm init` para baixar os pacotes de inicialização do package.json no projeto.
