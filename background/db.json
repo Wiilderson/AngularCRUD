@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Carrinho",
+      "preco": "200"
+    },
+    {
+      "id": 2,
+      "name": "Lapizera",
+      "preco": "500"
+    },
+    {
+      "id": 3,
+      "name": "Canetinha",
+      "preco": 20
+    },
+    {
+      "name": "Carrinho",
+      "preco": 120,
+      "id": 4
+    },
+    {
+      "name": "Gelagua",
+      "preco": "1202",
+      "id": 5
+    },
+    {
+      "name": "Carrinho",
+      "preco": 120,
+      "id": 6
+    },
+    {
+      "name": "Mesa 4 cadeiras",
+      "preco": "700",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Farinha",
+      "preco": "4.50"
+    }
+  ]
+}

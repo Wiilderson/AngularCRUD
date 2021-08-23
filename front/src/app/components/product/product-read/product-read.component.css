@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.edit > i {
+  color: rgb(168, 52, 9);
+  margin-right: 10px;
+}
+.delete > i {
+  color: rgba(199, 56, 31, 0.966);
+}
